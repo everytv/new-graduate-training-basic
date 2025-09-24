@@ -17,3 +17,8 @@
     - **アーキテクチャ**: システムの保守性や拡張性を高めるための設計思想について学びます。
     - **テスト**: なぜテストが必要なのか、その目的と手法について学びます。
     - **CI/CD**: 開発プロセスを自動化し、品質を担保しながら高速に開発を進めるためのCI/CDの概念とフローについて学びます。
+
+## 講義担当者
+- [masatomo57](https://github.com/masatomo57)
+- [chronoll](https://github.com/chronoll)
+- [KoreHyu](https://github.com/KoreHyu)
